@@ -1,5 +1,5 @@
-## Hello👋
-Tell me Wade
+<h1 align="center">Salut 👋, je suis Gora dia WADE</h1>
+<h3 align="center">développeur full stack javascript</h3>
 
 ### Languages and Tools:
 
@@ -29,5 +29,13 @@ Tell me Wade
 
 
 ![WADE Banner](https://github.com/user-attachments/assets/cdb85c37-3622-4d5a-95b0-65505cabc9fa)
+
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wade1508&show_icons=true&locale=fr&layout=compact" alt="wade1508" /></p>
+
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=wade1508&show_icons=true&locale=fr" alt="wade1508" /></p>
+
 
 
